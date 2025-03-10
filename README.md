@@ -1,4 +1,4 @@
-README: Custom XBRL Tag Matching
+**Custom XBRL Tag Matching**
 
 **Overview**
 This script processes a CSV file containing XBRL custom tag data and checks whether specific keywords appear in the list of U.S. GAAP tag names. The script utilizes Python's pandas library for data manipulation and tqdm for progress tracking.
