@@ -25,7 +25,7 @@ Ensure the required libraries are installed using:
 
 **Usage**
 Update the input_directory variable with the path to the folder containing the CSV file.
-Make sure the CSV file is named "__________.csv" and is located in the specified directory.
+Make sure the CSV file is named "Name of CSV file containing custom tags.csv" and is located in the specified directory.
 Modify the keywords list if you need to check for different tag names.
 
 **Run the script:**
@@ -33,11 +33,11 @@ Modify the keywords list if you need to check for different tag names.
 ```python script.py```
 
 The script will create a new column ContainsKeyword in the DataFrame.
-The output is saved to a text file named "_________.txt" in the same directory.
+The output is saved to a text file named "Name of output text file.txt" in the same directory.
 
 **Output**
 The updated DataFrame with the ContainsKeyword column is displayed in the console.
-The final results are saved to "________.txt" for reference.
+The final results are saved to "Name of output text file.txt" for reference.
 
 **Notes**
 
